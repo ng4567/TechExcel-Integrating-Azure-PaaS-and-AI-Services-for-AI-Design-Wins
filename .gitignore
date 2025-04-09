@@ -351,3 +351,11 @@ ASALocalRun/
 **/config_full.json
 
 appsettings.*.json
+C:\Users\nikhilgopal\TechExcel-Integrating-Azure-PaaS-and-AI-Services-for-AI-Design-Wins\.streamlit\secrets.toml
+.streamlit/
+C:\Users\nikhilgopal\TechExcel-Integrating-Azure-PaaS-and-AI-Services-for-AI-Design-Wins\.vscode
+.vscode/extensions.json
+.vscode/launch.json
+.vscode/tasks.json
+/workspace.code-workspace
+.github/copilot-instructions.md
